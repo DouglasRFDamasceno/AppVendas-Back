@@ -1,14 +1,9 @@
 {
   "users": [
     {
-      "id": 1,
-      "login": "Douglas",
-      "password": "1234"
-    },
-    {
-      "id": 2,
-      "login": "Davi",
-      "password": "1234"
+      "email": "d@d.com",
+      "password": "$2a$10$EQGl3yq8J/mM0m2hzeYJ4eEbkG05kH88m8Wzyf3XwkZ7LmFb9QYZi",
+      "id": 1
     }
   ]
 }
